@@ -7,6 +7,7 @@ for everything to work out fine you could create a new conda environment like th
 activate it: 
 
 `source activate gpworkshop`
+
 and then call 
 
   `jupyter notebook`
